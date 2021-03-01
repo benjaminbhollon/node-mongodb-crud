@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "A simple module with neat and tidy crud functions for manipulating a MongoDB database.",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminbhollon/node-mongodb-crud.git"
+  },
+  "author": "Benjamin Hollon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/benjaminbhollon/node-mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/benjaminbhollon/node-mongodb-crud#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
