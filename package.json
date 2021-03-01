@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-crud",
+  "name": "@bibliobone/mongodb-crud",
   "version": "1.0.0",
   "description": "A simple module with neat and tidy crud functions for manipulating a MongoDB database.",
   "main": "main.js",
